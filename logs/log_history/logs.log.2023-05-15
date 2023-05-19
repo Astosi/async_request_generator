@@ -1,0 +1,27 @@
+2023-05-17 11:10:24,910 - Components.utils.utils - INFO - Validating dataframe...
+2023-05-17 11:10:24,961 - Components.utils.utils - INFO - url has no None values! Go for it! This is your day to shine.
+2023-05-17 11:10:24,963 - Components.utils.utils - INFO - price has no None values! Go for it! This is your day to shine.
+2023-05-17 11:14:18,569 - Components.utils.utils - INFO - Validating dataframe...
+2023-05-17 11:14:18,619 - Components.utils.utils - WARNING - backyard has 236438 number of none values
+2023-05-17 11:14:18,655 - Components.utils.utils - WARNING - year_construction has 115145 number of none values
+2023-05-17 11:14:18,709 - Components.utils.utils - WARNING - garage_capacity has 358930 number of none values
+2023-05-17 11:14:18,771 - Components.utils.utils - WARNING - surface has 202589 number of none values
+2023-05-17 11:14:18,774 - Components.utils.utils - INFO - living_area has no None values! Go for it! This is your day to shine.
+2023-05-17 11:14:18,821 - Components.utils.utils - WARNING - energy_label has 204036 number of none values
+2023-05-17 11:14:18,826 - Components.utils.utils - WARNING - other_indoor_space has 320247 number of none values
+2023-05-17 11:14:18,836 - Components.utils.utils - WARNING - building_outdoor_space has 294438 number of none values
+2023-05-17 11:14:35,464 - Components.utils.utils - INFO - Validating dataframe...
+2023-05-17 11:14:35,468 - Components.utils.utils - WARNING - num_bedrooms has 106642 number of none values
+2023-05-17 11:14:35,471 - Components.utils.utils - WARNING - num_bathrooms has 154710 number of none values
+2023-05-17 11:14:35,476 - Components.utils.utils - WARNING - num_rooms has 104050 number of none values
+2023-05-17 11:14:35,479 - Components.utils.utils - WARNING - num_floors has 106263 number of none values
+2023-05-17 11:14:35,482 - Components.utils.utils - WARNING - garage_capacity has 358930 number of none values
+2023-05-17 11:14:35,486 - Components.utils.utils - WARNING - num_toilets has 170829 number of none values
+2023-05-17 11:14:35,491 - Components.utils.utils - WARNING - living_area has 754 number of none values
+2023-05-17 11:14:35,495 - Components.utils.utils - WARNING - year_construction has 115145 number of none values
+2023-05-17 11:14:35,499 - Components.utils.utils - WARNING - other_indoor_space has 320247 number of none values
+2023-05-17 11:14:35,503 - Components.utils.utils - WARNING - building_outdoor_space has 294438 number of none values
+2023-05-17 11:14:35,509 - Components.utils.utils - WARNING - plot_size has 195947 number of none values
+2023-05-17 11:14:35,514 - Components.utils.utils - WARNING - volume_in_cubic_meters has 104408 number of none values
+2023-05-17 11:14:35,517 - Components.utils.utils - WARNING - surface has 203137 number of none values
+2023-05-17 11:14:35,522 - Components.utils.utils - WARNING - backyard has 255326 number of none values

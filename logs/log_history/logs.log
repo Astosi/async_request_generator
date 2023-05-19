@@ -1,0 +1,51 @@
+2023-05-19 09:37:59,102 - Components.droppers.cleaner - WARNING - 392 rows were dropped (0.32%) due to price outlier
+2023-05-19 09:37:59,587 - Components.droppers.cleaner - WARNING - 150 rows were dropped (0.12%) due to age outlier
+2023-05-19 09:38:00,105 - Components.droppers.cleaner - WARNING - 202 rows were dropped (0.17%) due to num_bathrooms outlier
+2023-05-19 09:38:00,368 - Components.droppers.cleaner - WARNING - 6 rows were dropped (0.00%) due to date outlier
+2023-05-19 09:38:00,630 - Components.droppers.cleaner - WARNING - 1183 rows were dropped (0.98%) due to num_rooms outlier
+2023-05-19 09:38:00,904 - Components.droppers.cleaner - WARNING - 1836 rows were dropped (1.54%) due to num_floors outlier
+2023-05-19 09:38:01,192 - Components.droppers.cleaner - WARNING - 2897 rows were dropped (2.46%) due to garage_capacity outlier
+2023-05-19 09:38:01,461 - Components.droppers.cleaner - WARNING - 133 rows were dropped (0.12%) due to num_toilets outlier
+2023-05-19 09:38:01,713 - Components.droppers.cleaner - WARNING - 1735 rows were dropped (1.51%) due to living_area outlier
+2023-05-19 09:38:01,966 - Components.droppers.cleaner - WARNING - 117 rows were dropped (0.10%) due to year_construction outlier
+2023-05-19 09:38:02,223 - Components.droppers.cleaner - WARNING - 1669 rows were dropped (1.48%) due to other_indoor_space outlier
+2023-05-19 09:38:02,490 - Components.droppers.cleaner - WARNING - 2399 rows were dropped (2.16%) due to building_outdoor_space outlier
+2023-05-19 09:38:02,736 - Components.droppers.cleaner - WARNING - 1378 rows were dropped (1.27%) due to plot_size outlier
+2023-05-19 09:38:02,967 - Components.droppers.cleaner - WARNING - 3291 rows were dropped (3.06%) due to volume_in_cubic_meters outlier
+2023-05-19 09:38:03,194 - Components.droppers.cleaner - WARNING - 2337 rows were dropped (2.24%) due to surface outlier
+2023-05-19 09:38:03,409 - Components.droppers.cleaner - WARNING - 2272 rows were dropped (2.23%) due to backyard outlier
+2023-05-19 09:38:57,873 - Components.generators.feature_generator - ERROR - There are null values in x or y. Fill them first and then run clustering !
+2023-05-19 09:45:32,962 - Components.droppers.cleaner - WARNING - 138 rows were dropped (0.14%) due to num_bedrooms_cat_encoded
+2023-05-19 09:45:33,243 - Components.droppers.cleaner - WARNING - 3 rows were dropped (0.00%) due to num_floors_cat_encoded
+2023-05-19 09:45:33,561 - Components.droppers.cleaner - WARNING - 2 rows were dropped (0.00%) due to decade_construction_cat_encoded
+2023-05-19 09:45:33,805 - Components.droppers.cleaner - WARNING - 7034 rows were dropped (7.08%) due to energy_label_cat_encoded
+2023-05-19 09:51:39,395 - Components.droppers.cleaner - WARNING - 110 rows were dropped (0.12%) due to age outlier
+2023-05-19 09:51:40,266 - Components.droppers.cleaner - WARNING - 151 rows were dropped (0.16%) due to num_bathrooms outlier
+2023-05-19 09:51:40,555 - Components.droppers.cleaner - WARNING - 4 rows were dropped (0.00%) due to date outlier
+2023-05-19 09:51:40,794 - Components.droppers.cleaner - WARNING - 866 rows were dropped (0.94%) due to num_rooms outlier
+2023-05-19 09:51:41,094 - Components.droppers.cleaner - WARNING - 1340 rows were dropped (1.47%) due to num_floors outlier
+2023-05-19 09:51:41,330 - Components.droppers.cleaner - WARNING - 2152 rows were dropped (2.39%) due to garage_capacity outlier
+2023-05-19 09:51:41,651 - Components.droppers.cleaner - WARNING - 102 rows were dropped (0.12%) due to num_toilets outlier
+2023-05-19 09:51:41,945 - Components.droppers.cleaner - WARNING - 1237 rows were dropped (1.41%) due to living_area outlier
+2023-05-19 09:51:42,244 - Components.droppers.cleaner - WARNING - 86 rows were dropped (0.10%) due to year_construction outlier
+2023-05-19 09:51:42,513 - Components.droppers.cleaner - WARNING - 1225 rows were dropped (1.42%) due to other_indoor_space outlier
+2023-05-19 09:51:42,762 - Components.droppers.cleaner - WARNING - 1793 rows were dropped (2.11%) due to building_outdoor_space outlier
+2023-05-19 09:51:43,003 - Components.droppers.cleaner - WARNING - 1020 rows were dropped (1.22%) due to plot_size outlier
+2023-05-19 09:51:43,652 - Components.droppers.cleaner - WARNING - 2408 rows were dropped (2.93%) due to volume_in_cubic_meters outlier
+2023-05-19 09:51:43,863 - Components.droppers.cleaner - WARNING - 1728 rows were dropped (2.16%) due to surface outlier
+2023-05-19 09:51:44,098 - Components.droppers.cleaner - WARNING - 1671 rows were dropped (2.14%) due to backyard outlier
+2023-05-19 09:54:18,331 - Components.droppers.cleaner - WARNING - 4397 rows were dropped (5.75%) due to other_indoor_space outlier
+2023-05-19 09:54:18,565 - Components.droppers.cleaner - WARNING - 4038 rows were dropped (5.60%) due to building_outdoor_space outlier
+2023-05-19 09:54:18,803 - Components.droppers.cleaner - WARNING - 2035 rows were dropped (2.99%) due to plot_size outlier
+2023-05-19 09:54:19,345 - Components.droppers.cleaner - WARNING - 258 rows were dropped (0.39%) due to backyard outlier
+2023-05-19 09:55:28,857 - Components.droppers.cleaner - WARNING - 3872 rows were dropped (5.89%) due to building_outdoor_space outlier
+2023-05-19 09:55:29,148 - Components.droppers.cleaner - WARNING - 1955 rows were dropped (3.16%) due to plot_size outlier
+2023-05-19 09:55:29,739 - Components.droppers.cleaner - WARNING - 166 rows were dropped (0.28%) due to backyard outlier
+2023-05-19 09:55:32,174 - Components.droppers.cleaner - WARNING - 1955 rows were dropped (3.27%) due to plot_size outlier
+2023-05-19 09:55:32,797 - Components.droppers.cleaner - WARNING - 163 rows were dropped (0.28%) due to backyard outlier
+2023-05-19 09:55:35,183 - Components.droppers.cleaner - WARNING - 162 rows were dropped (0.28%) due to backyard outlier
+2023-05-19 09:57:55,295 - Components.droppers.cleaner - WARNING - 338 rows were dropped (0.59%) due to energy_label outlier
+2023-05-19 09:58:29,539 - Components.droppers.cleaner - WARNING - 399 rows were dropped (0.70%) due to garage_capacity outlier
+2023-05-19 10:04:20,858 - Components.droppers.cleaner - WARNING - 4 rows were dropped (0.01%) due to woz_value_2019 outlier
+2023-05-19 10:04:21,130 - Components.droppers.cleaner - WARNING - 3 rows were dropped (0.01%) due to woz_value_2020 outlier
+2023-05-19 10:04:21,382 - Components.droppers.cleaner - WARNING - 2 rows were dropped (0.00%) due to woz_value_2021 outlier
